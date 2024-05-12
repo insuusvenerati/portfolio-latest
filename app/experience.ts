@@ -70,7 +70,7 @@ export const projects = [
     description: "Built with Remix, Prisma, and SQLite. Manages recipes pulled from hellofresh",
     image:
       "https://github.com/insuusvenerati/hello-free-shavacado/blob/main/public/logo.jpg?raw=true",
-    url: "https://github.com/insuusvenerati/hello-free-shavacado",
+    url: "https://hello-free-shavacado.fly.dev/",
   },
   {
     title: "Easy Weather",
