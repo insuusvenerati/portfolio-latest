@@ -78,4 +78,10 @@ export const projects = [
     url: "https://easy-weather.stiforr.tech/",
     image: "https://nordicapis.com/wp-content/uploads/How-to-Build-an-API-Driven-Weather-App.png",
   },
+  {
+    title: "Weed Tracker",
+    description: "Track your marijuana experience",
+    url: "https://weed-tracker.pages.dev",
+    image: "https://weed-tracker.pages.dev/hero.jpeg",
+  },
 ];
