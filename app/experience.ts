@@ -81,7 +81,7 @@ export const projects = [
   {
     title: "Weed Tracker",
     description: "Track your marijuana experience",
-    url: "https://weed-tracker.stiforr.tech",
+    url: "https://weed-tracker.stiforr.com/",
     image: "https://weed-tracker.pages.dev/hero.jpeg",
   },
 ];
